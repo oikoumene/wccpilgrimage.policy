@@ -33,7 +33,7 @@ setup(name='wccpilgrimage.policy',
           'collective.dexteritytextindexer',
 	  'plone.app.multilingual == 2.0',
           'plone.multilingualbehavior',
-          'plone.app.contenttypes',
+          'plone.app.contenttypes == 1.1b3',
           'startupworks.pjp',
           # -*- Extra requirements: -*-
       ],
