@@ -34,6 +34,8 @@ setup(name='wccpilgrimage.policy',
           'plone.app.multilingual == 2.0',
           'plone.app.contenttypes == 1.1b3',
           'startupworks.pjp',
+          'wccpilgrimagesite.app',
+          'wccpilgrimagesite.theme',
           # -*- Extra requirements: -*-
       ],
       extras_require={
