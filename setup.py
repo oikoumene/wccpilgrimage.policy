@@ -36,7 +36,9 @@ setup(name='wccpilgrimage.policy',
           'startupworks.pjp',
           'wccpilgrimagesite.app',
           'wccpilgrimagesite.theme',
-          'z3c.jbot'
+          'z3c.jbot',
+          'sc.social.like',
+          'Products.ContentWellPortlets'
           # -*- Extra requirements: -*-
       ],
       extras_require={
