@@ -33,11 +33,13 @@ setup(name='wccpilgrimage.policy',
           'collective.dexteritytextindexer',
           'plone.app.multilingual == 2.0',
           'plone.app.contenttypes == 1.1b3',
-          'startupworks.pjp',
+          #'startupworks.pjp',
           'wccpilgrimagesite.app',
           'wccpilgrimagesite.theme',
           'sc.social.like',
-          'Products.ContentWellPortlets'
+          'Products.ContentWellPortlets',
+          'collective.documentviewer',
+          'eea.facetednavigation',
           # -*- Extra requirements: -*-
       ],
       extras_require={
