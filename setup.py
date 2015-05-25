@@ -40,6 +40,7 @@ setup(name='wccpilgrimage.policy',
           'Products.ContentWellPortlets',
           'collective.documentviewer',
           'eea.facetednavigation',
+          'plone.api',
           # -*- Extra requirements: -*-
       ],
       extras_require={
