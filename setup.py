@@ -41,6 +41,7 @@ setup(name='wccpilgrimage.policy',
           'collective.documentviewer',
           'eea.facetednavigation',
           'plone.api',
+          'collective.easytemplate',
           # -*- Extra requirements: -*-
       ],
       extras_require={
